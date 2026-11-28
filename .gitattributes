@@ -1,0 +1,4 @@
+*.md linguist-detectable
+*.markdown linguist-detectable
+*.rb -linguist-detectable
+*.yml -linguist-detectable
